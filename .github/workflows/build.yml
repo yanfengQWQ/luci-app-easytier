@@ -9,7 +9,7 @@ on:
         required: false
         default: ''
       text:
-        description: '请填写发布的说明'
+        description: '24.10.0'
         required: false
         default: ''
 concurrency:
